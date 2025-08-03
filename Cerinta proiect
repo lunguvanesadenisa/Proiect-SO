@@ -1,7 +1,0 @@
-Sa se realizeze un script (sau suita de scripturi) BASH care sa indeplineasca, fara a se limita la, urmatoarele cerinte:
-1. Sa poata crea si extinde / actualiza o structura de date tip CSV (comma separated values), disponibila intr-un fisier distinct. Exemplu de structura (minim) poate fi vazut la finalul enuntului.
-2. Sa adauge inregistrari noi, cu ID autogenerat (incrementarea celui mai mare ID disponibil)
-3. Sa stearga o inregistrare, primind ca data de intrare ID-ul, fara a altera restul inregistrarilor.
-4. Sa extraga, sorteze si limiteze rezultatele dupa un criteriu prestabilit. Ex: Afiseaza numele studentilor cu cele mai mari 3 note.
-5. Sa actualizeze o inregistare plecand de la ID, si datele care trebuie sa fie actualizate, fara a altera restul inregistrarilor.
-6. Sa expuna un meniu de optiuni pentru a naviga printre functionalitatile implementate (ex: un while bucla infinita pentru citirea optiunii, cu un case pentru executie + exit)
